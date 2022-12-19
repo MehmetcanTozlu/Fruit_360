@@ -1,0 +1,2 @@
+model_checkpoint_path: "deneme_h5"
+all_model_checkpoint_paths: "deneme_h5"
